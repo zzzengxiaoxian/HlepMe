@@ -449,6 +449,16 @@ https://github.com/tripleCC/GanHuoCode
 又一个 Gank.io 客户端。 
 https://github.com/Assassinss/smile
 
+Gank干货集中营Android客户端。
+https://github.com/GcsSloop/Gank
+
+GankMM -- 干货营
+https://github.com/maning0303/GankMM
+ 
+ gankio 客户端大全：
+ https://github.com/ruijun/awesome-gank.io
+ 
+ 
 高仿 爱范儿 
 https://github.com/iCodeForever/ifanr
 
