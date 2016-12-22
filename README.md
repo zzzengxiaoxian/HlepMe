@@ -1,5 +1,5 @@
 # HlepMe
- # 从无到有 #APP开发需要哪些库 #自我总结
+ #android开发 工具库  工具类  文章
  
  ONE 界面：
  
@@ -135,6 +135,10 @@ https://github.com/Adirockzz95/FABtransitions
  Synopsis 很有新意的一款 Android Bottom Tab 效果。 
  https://github.com/thelong1EU/SpaceTabLayout
  
+ DateTimeRangePicker时间选择器，选择特定间隔时间段。
+ https://github.com/skedgo/DateTimeRangePicker
+ 
+ 
 
  翻页库：
  PageFlip
@@ -206,6 +210,8 @@ https://github.com/Adirockzz95/FABtransitions
  MCMHeaderAnimated列表与详情页切换过程增加动画的库 
  https://github.com/mathcarignani/MCMHeaderAnimated
  
+ EmojiRain 屏幕表情掉落这是一个特别小巧的Android掉emoji表情包实现。效果类似于微信中发送"生日快乐"和"么么哒"之类的词语时触发的动画效果。
+ https://github.com/Luolc/EmojiRain
  
  九、seekbar
  BubbleSeekBar 自定义气泡seekbar  https://github.com/woxingxiao/BubbleSeekBar
@@ -300,6 +306,11 @@ https://github.com/Adirockzz95/FABtransitions
  
  
  
+ 二十一、
+ 地图： 
+ ThemedGoogleMap支持自定义主题的 Google Map 工具类。 
+ https://github.com/jineshfrancs/ThemedGoogleMap
+ 
  
  
  
@@ -332,6 +343,9 @@ https://github.com/Adirockzz95/FABtransitions
  
  通俗易懂的Dagger2入门教程,值得一看 http://www.jianshu.com/p/1d84ba23f4d2
  
+ 
+ LogcatTextView帮助你在 App 端，查看 Logcat 输出信息，测试的时候会有帮助
+ https://github.com/munix/LogcatTextView
 
 
 THREE 
@@ -578,6 +592,9 @@ https://github.com/romannurik/AndroidIconAnimator
 
 仿三星桌面的浮动工具
 https://github.com/k0shk0sh/FastAccess
+
+Freeline Freeline 是一款 Android 平台上的秒级编译方案，能够显著地提高 Android 工程的编译速度。
+https://www.freelinebuild.com/docs/zh_cn/###
 
 
 
