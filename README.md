@@ -87,6 +87,16 @@ FancyBackground
 https://github.com/tslamic/FancyBackground
 
 
+
+
+SlideUp-Android Android 卡片滑动出现和消失效果，很好看哟
+https://github.com/mancj/SlideUp-Android
+
+MarqueeViewDemo一个方便使用的跑马灯效果library
+https://github.com/gongwen/MarqueeViewDemo
+
+
+
 十个让用户印象深刻的动画 
 https://stories.uplabs.com/10-impressive-uses-of-motion-and-animations-in-material-design-ecf8b94df02d?gi=7a9ff2571af5
 
@@ -138,6 +148,10 @@ https://github.com/Adirockzz95/FABtransitions
  DateTimeRangePicker时间选择器，选择特定间隔时间段。
  https://github.com/skedgo/DateTimeRangePicker
  
+  弹幕效果：
+ Android上专为视屏直播打造的轻量级弹幕库（100多kb）
+ https://github.com/hpdx/DanmukuLight
+ 
  
 
  翻页库：
@@ -180,6 +194,8 @@ https://github.com/Adirockzz95/FABtransitions
  
  加载动画ImageView 
  http://gank.io/search?q=%E5%8A%A8%E7%94%BB
+ 
+ 
  
  转场：
  兼容5.0以下转场动画帮助类 
@@ -230,6 +246,12 @@ https://github.com/Adirockzz95/FABtransitions
  
  JieCaoVideoPlayer（android videoplayer videoview fullscreen节操精选家开源的视频播放器解决方案  ）
  https://github.com/lipangit/jiecaovideoplayer
+ 
+ 
+   弹幕效果：
+ Android上专为视屏直播打造的轻量级弹幕库（100多kb）
+ https://github.com/hpdx/DanmukuLight
+ 
  
  音乐播放：
  
@@ -312,8 +334,8 @@ https://github.com/Adirockzz95/FABtransitions
  https://github.com/jineshfrancs/ThemedGoogleMap
  
  
- 
- 
+
+
  
  
  
@@ -485,6 +507,11 @@ https://github.com/Uphie/ONE-Unofficial
 
 Aisen微博是新浪微博的第三方客户端，UI遵循Material Design
 https://github.com/wangdan/AisenWeiBo
+
+
+FlipGank一款 FlipBoard 翻页风格的 Gank.io 客户端
+https://github.com/yiyuanliu/FlipGank
+
 
 
 豆瓣FM (OC实现) 
