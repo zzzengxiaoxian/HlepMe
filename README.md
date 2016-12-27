@@ -45,6 +45,11 @@ https://github.com/androidessence/PinchZoomTextView
  用作个人用户显示几张照片 个性化照片介绍 可来回拖动  android-drag-square库 
  https://github.com/SwiftyWang/android-drag-square
  
+ 多种图片样式 UI 组合，很适合做头像相关的功能。
+ https://github.com/stfalcon-studio/MultiImageView
+ 
+ 
+ 
  
  
  四、视频：
@@ -94,6 +99,12 @@ https://github.com/mancj/SlideUp-Android
 
 MarqueeViewDemo一个方便使用的跑马灯效果library
 https://github.com/gongwen/MarqueeViewDemo
+
+
+一个蛮酷的加载进度条
+https://github.com/zhangyuChen1991/ZYDownloading
+
+
 
 
 
@@ -153,6 +164,36 @@ https://github.com/Adirockzz95/FABtransitions
  https://github.com/hpdx/DanmukuLight
  
  
+ 
+ 通过监听手腕旋转进行交互，自动滚动图片
+ https://github.com/gjiazhe/PanoramaImageView
+ 
+ 
+ 歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码
+ https://github.com/zhengken/LyricViewDemo
+ 
+ 
+ 
+ Android 实现的漂亮的下雪效果。
+ https://github.com/JetradarMobile/android-snowfall
+ 
+ 
+ ZoomHeader神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页
+ https://github.com/githubwing/ZoomHeader
+ 
+ 
+ 
+ 极其简便的快速实现滑动隐藏标题栏和导航栏
+ https://github.com/githubwing/ByeBurger
+ 
+ 
+ DragPhotoView高仿微信可拖拽返回PhotoView
+ https://github.com/githubwing/DragPhotoView
+ 
+ 
+ 
+ 
+ 
 
  翻页库：
  PageFlip
@@ -194,6 +235,11 @@ https://github.com/Adirockzz95/FABtransitions
  
  加载动画ImageView 
  http://gank.io/search?q=%E5%8A%A8%E7%94%BB
+ 
+ 
+WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clouds Disappear In The Sky.铁塔融云！一个让你的哇哇哇哇闪屏页。
+ https://github.com/githubwing/WowSplash
+ 
  
  
  
@@ -247,6 +293,9 @@ https://github.com/Adirockzz95/FABtransitions
  JieCaoVideoPlayer（android videoplayer videoview fullscreen节操精选家开源的视频播放器解决方案  ）
  https://github.com/lipangit/jiecaovideoplayer
  
+ 
+ 非常漂亮的一款 Android Movie 工具。 
+ https://github.com/lawloretienne/MovieHub
  
    弹幕效果：
  Android上专为视屏直播打造的轻量级弹幕库（100多kb）
@@ -325,6 +374,9 @@ https://github.com/Adirockzz95/FABtransitions
  二十、布局
  一个简单但可以自定义切换动画的管理多状态的自定义layout 
  https://github.com/lufficc/StateLayout
+ 
+ Material Design 风格的 About 页面设计。 
+ https://github.com/daniel-stoneuk/material-about-library
  
  
  
@@ -470,6 +522,10 @@ http://blog.csdn.net/guolin_blog/article/details/17482095
 一个建立在RxJava架构Android实例项目
 https://github.com/reark/reark
 
+RxJava实现的图片选择库
+https://github.com/miguelbcr/RxPaparazzo
+
+
 
 
 
@@ -518,7 +574,12 @@ https://github.com/yiyuanliu/FlipGank
 https://github.com/XVXVXXX/DoubanFM
 
 
+GankClient-Kotlin gank.io kotlin实现的干货集中营Android客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3
+https://github.com/githubwing/GankClient-Kotlin
 
+
+知乎热门榜-知乎热门问题 
+https://github.com/jiang111/ZhiHu-TopAnswer
 
 
 
@@ -623,6 +684,21 @@ https://github.com/k0shk0sh/FastAccess
 Freeline Freeline 是一款 Android 平台上的秒级编译方案，能够显著地提高 Android 工程的编译速度。
 https://www.freelinebuild.com/docs/zh_cn/###
 
+Android Key 生成，存储，加密工具库。
+https://github.com/yakivmospan/scytale
+
+
+Android HTML to TextView Builder 辅助工具库。 
+https://github.com/jrummyapps/html-builder
+
+
+开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的。
+https://github.com/Sloy/preferator
+
+
+
+自制悬浮框，愉快地查看栈顶 Activity
+https://github.com/fashare2015/ActivityTracker 
 
 
 
