@@ -41,7 +41,7 @@ https://github.com/androidessence/PinchZoomTextView
  
  
  
-三、 图片上传：
+三、 图片选择上传：
  用作个人用户显示几张照片 个性化照片介绍 可来回拖动  android-drag-square库 
  https://github.com/SwiftyWang/android-drag-square
  
@@ -49,8 +49,11 @@ https://github.com/androidessence/PinchZoomTextView
  https://github.com/stfalcon-studio/MultiImageView
  
  
- 
- 
+Android-ImagesPickers是一个图片选择（单选/多选）、拍照、裁剪的图片选择器。使用方便，功能可自己配置，Android-ImagesPickers自身并没有强制绑定某个ImageLoader，开发者可以根据自己项目给Android-ImagesPickers配置图片加载器。
+https://github.com/jaikydota/Android-ImagesPickers
+
+
+
  
  四、视频：
  视频播放  附带视频变小可移动 DragVideo 
@@ -147,6 +150,17 @@ https://github.com/Adirockzz95/FABtransitions
  https://github.com/andyxialm/SmoothCheckBox
  
  
+ FloatingTextFloatingText 是一个能够在任何控件之上执行漂浮效果动画的控件，
+目前已有的漂浮效果有 '位移漂浮' ，'缩放漂浮'，'曲线路径漂浮',更重要的是 FloatingText 能够自定义漂浮效果.
+https://github.com/UFreedom/FloatingText/blob/master/README_CN.md
+
+
+
+FloatingView你想在哪个 View 上面进行漂浮动画
+ https://github.com/UFreedom/FloatingView
+
+
+
 
  日历和工作表 ：
  ScrollablePanel
@@ -240,9 +254,17 @@ https://github.com/Adirockzz95/FABtransitions
 WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clouds Disappear In The Sky.铁塔融云！一个让你的哇哇哇哇闪屏页。
  https://github.com/githubwing/WowSplash
  
+ facebook开源了一个把基于Adobe AE shape的动画转换成json格式并使之能在安卓和iOS上播放的库。
+ https://github.com/facebookincubator/Keyframes
  
+一个漂亮的视图预加载效果。FiftyShadesOf
+ https://github.com/florent37/FiftyShadesOf
  
+ ShapeRipple Shape Ripple是一个模拟涟漪效果的library，可以创建自定义的涟漪形状。
+  https://github.com/poldz123/ShapeRipple
  
+ ShareButton一个动画效果很棒的分享按钮。
+ https://github.com/kayan1990/ShareButton
  转场：
  兼容5.0以下转场动画帮助类 
  https://github.com/ImmortalZ/TransitionHelper
@@ -275,6 +297,15 @@ WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clo
  EmojiRain 屏幕表情掉落这是一个特别小巧的Android掉emoji表情包实现。效果类似于微信中发送"生日快乐"和"么么哒"之类的词语时触发的动画效果。
  https://github.com/Luolc/EmojiRain
  
+ 
+ cornerlabelview 一个角标view的库
+ https://github.com/czy1121/cornerlabelview
+ 
+ RealtimeBlurView 一个模糊库
+ https://github.com/mmin18/RealtimeBlurView
+ 
+ 
+ 
  九、seekbar
  BubbleSeekBar 自定义气泡seekbar  https://github.com/woxingxiao/BubbleSeekBar
  
@@ -294,6 +325,12 @@ WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clo
  https://github.com/lipangit/jiecaovideoplayer
  
  
+ GSYVideoPlayer视频播放器，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画
+ https://github.com/CarGuo/GSYVideoPlayer
+ 
+ material-camera安卓的录制api很难搞明白，主要因为许多制造商喜欢随意定制他们的sensor。这个库是经过许多研究和试验之后的结果，让视频录制的适用范围更广 https://github.com/afollestad/material-camera
+ 
+ 
  非常漂亮的一款 Android Movie 工具。 
  https://github.com/lawloretienne/MovieHub
  
@@ -303,6 +340,9 @@ WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clo
  
  
  音乐播放：
+ 
+ StylishMusicPlayer一个非常漂亮的音乐播放器
+ http://www.jcodecraeer.com/a/opensource/2016/0919/6623.html
  
  
  
@@ -378,7 +418,22 @@ WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clo
  Material Design 风格的 About 页面设计。 
  https://github.com/daniel-stoneuk/material-about-library
  
+ ArcLayout 一个为里面的视图增加弧形效果的布局。
+ https://github.com/florent37/ArcLayout
  
+ 在ImageView和relative layout的底部添加曲线。
+ http://www.jcodecraeer.com/a/opensource/2016/1121/6792.html
+ 
+ 
+ 自定义流式布局
+ https://github.com/BelooS/ChipsLayoutManager
+ 
+ 
+ FanLayoutManager 一个略带弧度的横向 LayoutManager ，被选中的item会突出显示。
+  https://github.com/Cleveroad/FanLayoutManager
+  
+  
+  
  
  二十一、
  地图： 
@@ -386,8 +441,10 @@ WowSplash  闪屏页是如何像云一样消失的A Woooow Splash Which Like Clo
  https://github.com/jineshfrancs/ThemedGoogleMap
  
  
-
-
+ 二十二 、自定义控件：
+ 
+ 自定义Switch 和 Ruler控件 尺子控件 男女选择
+ https://github.com/zhangxuyang321/XyzInfo
  
  
  
@@ -451,6 +508,13 @@ https://github.com/hehonghui/android-tech-frontier/tree/master/androidweekly/%E4
 
 一种在android中实现MVP模式的新思路
 https://github.com/hehonghui/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF
+
+
+XDroid轻量级Android快速开发框架 https://github.com/limedroid/XDroid
+https://github.com/limedroid/XDroid
+
+
+
 
 FORE 
 二维码 ：
@@ -581,7 +645,24 @@ https://github.com/githubwing/GankClient-Kotlin
 知乎热门榜-知乎热门问题 
 https://github.com/jiang111/ZhiHu-TopAnswer
 
+《番茄周》软件开源项目,写了一个可以记录每天小目标的工具，使用 Realm 作为数据库，Material Design 风格。
+https://github.com/a-voyager/WeekToDo
 
+
+基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品,仅供参考学习，拒绝做一切商业用途，如有侵权，请告知删除
+https://github.com/a371166028/likequanmintv
+
+owspace是一款高仿单读的APP，模仿得非常精美，基于MVP+Dagger2+Retrofit2.0+Rxjava。
+https://github.com/babylikebird/owspace
+
+Elephant大象是 PHPHub 社区非官方 Android 客户端, App UI 风格遵循了 Google Material Design 设计风格, 项目架构使用了 MVP 模式, 数据处理使用了 RxJava + Retrofit 技术。
+https://github.com/Freelander/Elephant
+
+基于Xmpp协议的即时通讯社交软件(客户端+服务端)
+https://github.com/jiangzehui/xmpp
+
+一款基于 Material Design 的图书展示类 app，采用的是 MD 设计风格，具有一些友好的交互动画
+ https://github.com/hymanme/MaterialHome
 
 
 NINE：
@@ -704,10 +785,19 @@ https://github.com/fashare2015/ActivityTracker
 
 
 
-
-
-
-
+ thirty
+ 蓝牙开发 
+ 
+ 
+ 安卓蓝牙操作库，把蓝牙请求封装像Http一样，几行代码就能与物联网智能硬件设备交互
+  https://github.com/a-voyager/BluetoothHelper
+  
+  FastBle
+  Android BLE 蓝牙快速开发框架，使用回调方式处理：scan、connect、notify、indicate、write、read等一系列蓝牙操作。
+   https://github.com/Jasonchenlijian/FastBle
+  
+  
+  
 
 
 
